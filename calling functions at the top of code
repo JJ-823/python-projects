@@ -1,0 +1,36 @@
+def home_screen():
+    print("Welcome to the Home Screen!")
+    print("1. Say Hello")
+    print("2. Say Goodbye")
+    print("3. Exit")
+
+    choice = input("Enter your choice: ")
+
+    if choice == "1":
+        say_hello()
+    elif choice == "2":
+        say_goodbye()
+    elif choice == "3":
+        print("Goodbye!")
+        return
+    else:
+        print("Invalid choice, try again.")
+        home_screen()  # Go back to menu if invalid
+
+
+def say_hello():
+    print("Hi there!")
+    home_screen()  # Go back to menu after action
+
+
+def say_goodbye():
+    print("See you later!")
+    home_screen()  # Go back to menu after action
+
+
+def decisions():
+    home_screen()
+
+
+if __name__ == "__main__":
+    decisions()
