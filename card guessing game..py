@@ -1,19 +1,6 @@
 """
-i havent done a python project in a while. ive been busy with java script/ JS becuase of my AP computer science principles class. 
-i did one last python project, i forgot how long ago probably like 2 weeks ago. anyways. i had to stop doing python because i wasnt
-letting myself learn (JS) while in (AP csp) i wouldnt ever be able to understand (JS) logic and because of that i always was
-one step behinde everyone else so i stoped doing python. while i wasnt doing python, my brain started understanding (JS) and how 
-(JS) is more event driven. it took a while until i started my JS project. when doing it, i relized that i understood (JS) logic
-all along. i wasnt coding with block like everyone else anymore and i was able to code by hand. while making the project i had a 
-error and my teacher was able to catch one of the errors in my code but i found the other one. from then on i finally understood 
-how i work when it comes to coding. my brain doesnt work in the way of code.org giving me sample screens that i have to code off of. 
-or build off of sample code. my brain couldnt function like that becuase. i strive for creativity so when i sat there working on 
-the project. everything that i thought i didnt know clicked. and so for that reason ima celebrate and make this python project.
-and the good thing is. is that i didnt forget anything i learned in python. and i still understand the logic.
-|
-started on 10/9/2025 at 3:16pm
+tarted on 10/9/2025 at 3:16pm
 ended on 10/11/2025  at 1:00am
-
 """
 
 
