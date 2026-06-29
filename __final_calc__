@@ -1,12 +1,6 @@
 """
-this was my last attempt at making a python calc
-i fixed the last error regarding the Y function
-and the number zero. i forgot to put a time
-but the dates are below
 started at 9/11/2025
 finished at 12:32am on 9/12/2025
-it didnt take me a whole day this was at the
-middle of the night when it turned 12.
 """
 
 def user_input():
