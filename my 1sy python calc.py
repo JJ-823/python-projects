@@ -1,8 +1,4 @@
 """
-this is my first atempt at making a (4 function)
-python calculator. ive been learning python all
-summer of 2025, and i think its time to challenge myself
-to see were im at.
 started at (10.44am on 9/5/2025)
 finished at (2:38pm an 9/5/2025)
 took me about 3 hours of working.
